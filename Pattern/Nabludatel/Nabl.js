@@ -84,3 +84,4 @@ function statisticDisplat(){};
 var watherData = new WatherData();
 var cCondition = new currentCondition(watherData);
 watherData.setMesherd(10,100,200);
+//console.log(cCondition.dispaly());
